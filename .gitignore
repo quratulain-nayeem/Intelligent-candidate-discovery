@@ -1,0 +1,8 @@
+﻿data/candidates.jsonl
+outputs/
+*.npy
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+Downloads/
